@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
     playsInline
     className="absolute top-0 left-0 w-full h-full object-cover z-0"
   >
-    <source src="pics/121602-724710304.mp4" type="video/mp4" />
+    <source src="/pics/121602-724710304.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 
