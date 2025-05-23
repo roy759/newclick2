@@ -18,7 +18,7 @@ const CreativeCampaigns: React.FC = () => {
     {
       title: "Tribute to the King",
       description: "Social media campaign",
-      image: "public\pics\vk1.jpg",
+      image: "public/pics/vk1.jpg",
       stats: [
         { label: "Engagement Rate", value: "12.5%" },
         { label: "Reach", value: "1M+" },
