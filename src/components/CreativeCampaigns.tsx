@@ -18,7 +18,7 @@ const CreativeCampaigns: React.FC = () => {
     {
       title: "Tribute to the King",
       description: "Social media campaign",
-      image: "/pics/vk1.jpg",
+      image: "public\pics\vk1.jpg",
       stats: [
         { label: "Engagement Rate", value: "12.5%" },
         { label: "Reach", value: "1M+" },
@@ -48,7 +48,7 @@ const CreativeCampaigns: React.FC = () => {
     {
       title: "Buddha",
       description: "Social media campaign",
-      image: "pics/buddha 2.jpg",
+      image: "/pics/buddha 2.jpg",
       stats: [
         { label: "Store Visits", value: "+150%" },
         { label: "ROAS", value: "4.2x" },

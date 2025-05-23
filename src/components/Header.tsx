@@ -26,7 +26,7 @@ const Header: React.FC = () => {
           {/* Logo */}
           <a href="#hero" className="flex items-center space-x-4">
             <img
-              src="pics\logo_2.0-removebg-preview (1).png"
+              src="/pics/logo_2.0-removebg-preview (1).png"
               alt="Click N Flickz Logo"
               className="h-20 w-auto object-contain" 
             />
